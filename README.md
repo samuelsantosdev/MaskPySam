@@ -1,5 +1,10 @@
 # MaskPySam
 
+## Relase
+| Release | Date | 
+| --- | --- | 
+| 1.0 | 06-13-2016 | 
+
 ##Params
 
 | Param | Type | Required | Default |
