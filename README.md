@@ -10,7 +10,7 @@
 | debugenable | Boolean | no | False |
 
 ##Source example with Tkinter
-
+```
   from Tkinter import *
   from maskpysam import maskpysam
 
@@ -27,3 +27,4 @@
   et.focus_force()
 
   root.mainloop()
+```
