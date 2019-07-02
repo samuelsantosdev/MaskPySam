@@ -33,9 +33,10 @@
 
   root.mainloop()
 ```
-##Output
+### Output
 ```
 keymask(value , mask , regexreplace="[^0-9]" , debugenable=False)
+```
 the chars # are replaced
 Ex.
     Mask    (###) ###.###.###
@@ -43,4 +44,3 @@ Ex.
     Masked  (123) 456.789.123
     
 Enjoy ;)
-```
