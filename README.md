@@ -1,11 +1,11 @@
 # MaskPySam
 
-## Relase
+### Release
 | Release | Date | 
 | --- | --- | 
 | 1.0 | 06-13-2016 | 
 
-##Params
+### Params
 
 | Param | Type | Required | Default |
 | --- | --- | --- | --- |
@@ -14,7 +14,7 @@
 | regexreplace | regex | no | [^0-9] | 
 | debugenable | Boolean | no | False |
 
-##Source example with Tkinter
+### Source example with Tkinter
 ```python
   from Tkinter import *
   from maskpysam import maskpysam
